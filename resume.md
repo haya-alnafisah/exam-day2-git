@@ -22,6 +22,14 @@ Al Imam Muhammad Ibn Saud Islamic University Bachelor's Social Word
 <br>
 -coures of noor system
 
+## list of 5 projects
+-dojo-jump
+-docker-flask
+-example-voting-app
+-sample-java-app
+-sample-aspdotnet-core-app
+
+
 
 
 <!-- ### Footer
