@@ -26,4 +26,4 @@ Al Imam Muhammad Ibn Saud Islamic University Bachelor's Social Word
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: august 2022 -->
